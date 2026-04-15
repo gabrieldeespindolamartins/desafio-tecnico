@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npx create-next-app@14 --help)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:3000/api/inventario)",
+      "Bash(curl -s -X POST http://localhost:3000/api/inventario -H \"Content-Type: application/json\" -d '{\"tipo\":\"Notebook\",\"modeloMarca\":\"Dell Latitude 5420\",\"colaborador\":\"João Silva\",\"setor\":\"TI\"}')"
+    ]
+  }
+}

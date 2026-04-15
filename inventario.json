@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "tipo": "Computador",
+    "modeloMarca": "Dell topzera",
+    "colaborador": "gabriel",
+    "setor": "Comercial"
+  },
+  {
+    "id": 2,
+    "tipo": "Notebook",
+    "modeloMarca": "azus",
+    "colaborador": "Junior",
+    "setor": "Financeiro"
+  }
+]
