@@ -1,5 +1,5 @@
 ## 📄 README.md (obrigatório, feito à mão)
-# Desafio Técnico — Inventário de TI
+**Desafio Técnico — Inventário de TI**
 
 Desafio prático realizado em processo seletivo para vaga de estágio. O
 escopo era construir um sistema de inventário de ativos de hardware a
