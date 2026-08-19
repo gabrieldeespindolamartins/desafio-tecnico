@@ -1,4 +1,21 @@
 ## 📄 README.md (obrigatório, feito à mão)
+# Desafio Técnico — Inventário de TI
+
+Desafio prático realizado em processo seletivo para vaga de estágio. O
+escopo era construir um sistema de inventário de ativos de hardware a
+partir de uma especificação e de um `inventario.json` já fornecidos, com
+tempo cronometrado: cerca de 1 hora de desenvolvimento e 30 minutos para
+a documentação.
+
+**O registro dos prompts era entregável obrigatório do desafio**, não uma
+escolha de documentação. A empresa pediu explicitamente o histórico dos
+comandos usados na IA, e é isso que a seção "Comandos Utilizados" abaixo
+apresenta — na ordem em que foram executados, com o resultado de cada um,
+incluindo os que não funcionaram e precisaram de nova abordagem.
+
+🔗 **[Ver aplicação online](https://desafio-tecnico-ivory.vercel.app/)**
+
+**Stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS
 
 ***Desafio Técnico***
 
